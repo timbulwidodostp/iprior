@@ -1,6 +1,8 @@
 # iprior
 Fit an I-prior regression model Use iprior With (In) R Software
 
+https://www.youtube.com/watch?v=UgA0NkVDOPQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
